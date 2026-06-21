@@ -74,9 +74,9 @@ $title_page = $title !== '' ? $title : 'Pregled proizvoda';
     </main>
 
     <footer>
-        <div>Autor: <strong>Ime Prezime</strong></div>
-        <div>Kontakt: <a href="mailto:ime.prezime@example.com">ime.prezime@example.com</a></div>
-        <div class="copyright">&copy; <?php echo date('Y'); ?> Olimp Sport &middot; Programiranje web aplikacija</div>
+        <div>Autor: <strong>Borna Babić</strong></div>
+        <div>Kontakt: <a href="mailto:bbabic@tvz.hr">bbabic@tvz.hr</a></div>
+        <div class="copyright">&copy; 2026 Olimp Sport &middot; Programiranje web aplikacija</div>
     </footer>
 
 </div>
